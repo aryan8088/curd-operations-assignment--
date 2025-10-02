@@ -6,7 +6,7 @@ set base=http://localhost:3000/users
 1) Get all users -
   curl %base%
 
-2) Get user bu ID -
+2) Get user by ID -
    curl %base%/8
    
 3) Post user -
