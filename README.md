@@ -1,5 +1,6 @@
 # curd-operations-assignment--
 commands to run the CURD operations
+
 set base=http://localhost:3000/users
 
 1) Get all users -
